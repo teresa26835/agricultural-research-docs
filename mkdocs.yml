@@ -1,0 +1,13 @@
+site_name: Agricultural Commodity Price Research | Technical Documentation
+site_description: Research workflow, modeling decisions, challenges and limitations
+site_url: https://teresa26835.github.io/agricultural-research-docs/
+theme:
+  name: mkdocs
+nav:
+  - Overview: index.md
+  - Data Pipeline and SQL: pipeline.md
+  - Missing Data: missingness.md
+  - Regression: regression.md
+  - Model Diagnostics: diagnostics.md
+  - Validation and Limitations: validation.md
+  - Dashboard: dashboard.md
